@@ -5,3 +5,7 @@
 * {
   overflow-x: hidden;
 }
+
+h1 {
+  overflow: hidden;
+}

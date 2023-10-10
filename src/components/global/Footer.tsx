@@ -29,7 +29,7 @@ export default function Footer() {
         <SubTitle
           color="gray-500"
           key={i}
-          className="cursor-pointer text-xs hover:text-blue-500"
+          className="cursor-pointer text-xs hover:text-blue-500 lg:py-10"
         >
           {l}
         </SubTitle>
